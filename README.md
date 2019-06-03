@@ -4,7 +4,8 @@ RESONANCE IMAGING DATA
 ### Authors
 - Alessandro Montemurro, DTU Compute
 - Christoffer Hjørt, DTU Compute
-- Edoardo Nemni, DTU Bioengineering  
+- Edoardo Nemni, DTU Compute
+
 
 
 ### Description
